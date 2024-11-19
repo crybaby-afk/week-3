@@ -1,0 +1,22 @@
+{
+  "name": "week-3",
+  "version": "1.0.0",
+  "description": "## Overview Flatdango Movie Theater is a simple web application that allows users to view a list of movies, see details such as the movie poster, description, and available tickets, and purchase tickets. When a user buys a ticket, the number of available tickets is reduced, and the button is disabled if there are no more tickets available.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crybaby-afk/week-3.git"
+  },
+  "author": "crybaby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crybaby-afk/week-3/issues"
+  },
+  "homepage": "https://github.com/crybaby-afk/week-3#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
