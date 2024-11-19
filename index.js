@@ -1,3 +1,4 @@
+// index.js
 document.addEventListener("DOMContentLoaded", () => {
   const filmsList = document.getElementById("films");
   const posterImg = document.getElementById("poster");
